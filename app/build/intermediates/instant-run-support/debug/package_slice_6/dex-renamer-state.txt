@@ -1,0 +1,4 @@
+#Wed Mar 28 11:25:12 BRT 2018
+base.0=/Users/marcelomonier/Desktop/ListadeImagens/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
